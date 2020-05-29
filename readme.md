@@ -16,3 +16,4 @@ and in a third window run:
 `./start-load-balancer.sh`
 
 Take this example, and introduce a redis server to hold the state.
+test
